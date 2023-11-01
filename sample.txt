@@ -1,6 +1,10 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 This is a first commit file
 
+=======
+this is from firstbranch
+>>>>>>> 7dfbd79 (sample)
 =======
 this is from firstbranch
 >>>>>>> 7dfbd79 (sample)
